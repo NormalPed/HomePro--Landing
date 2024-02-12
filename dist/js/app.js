@@ -4260,7 +4260,7 @@
             e.preventDefault();
         }
     }
-    window["FLS"] = true;
+    window["FLS"] = false;
     isWebp();
     addLoadedClass();
     menuInit();
